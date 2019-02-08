@@ -1,0 +1,31 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="63.3px"
+	height="63.3px" viewBox="0 0 63.3 63.3" style="enable-background:new 0 0 63.3 63.3;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill:none;stroke:#001F40;stroke-width:1.5;stroke-miterlimit:10;}
+		.st1{fill:none;stroke:#FDB952;stroke-width:1.6802;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+		.st2{fill:#FDB952;}
+		.st3{fill:none;stroke:#002249;stroke-width:1.5077;stroke-linecap:round;stroke-miterlimit:10;}
+		.st4{fill:none;}
+	</style>
+	<defs>
+	</defs>
+	<g>
+		<g>
+			<path class="st0" d="M47.8,21.8v31H15.5V10.4h21C39.3,13.2,44.6,18.6,47.8,21.8z"/>
+			<polyline class="st0" points="36.5,10.4 36.5,21.7 47.8,21.7 		"/>
+			<g>
+				<g>
+					<polyline class="st1" points="9.3,14 9.3,3.9 19.5,3.9 				"/>
+					<polyline class="st1" points="43.8,3.9 54,3.9 54,14 				"/>
+				</g>
+				<g>
+					<polyline class="st1" points="54,49.3 54,59.4 43.8,59.4 				"/>
+					<polyline class="st1" points="19.5,59.4 9.3,59.4 9.3,49.3 				"/>
+				</g>
+			</g>
+			<circle class="st2" cx="31.6" cy="32.6" r="9.9"/>
+			<polyline class="st3" points="27.6,33 30.8,36.6 35.7,28.8 		"/>
+		</g>
+		<rect class="st4" width="63.3" height="63.3"/>
+	</g>
+</svg>
